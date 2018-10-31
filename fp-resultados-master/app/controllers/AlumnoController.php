@@ -21,6 +21,15 @@ class AlumnoController extends \BaseController {
         }
 
 
+/* Jesús Luque agrego una nueva función a la vez que Mauricio hace cambios en el fichero*/		
+		
+		public function prueba2(){
+			return 'yeah';
+		}
+
+
+		
+		
 	/**
 	 * Show the form for creating a new resource.
 	 *
