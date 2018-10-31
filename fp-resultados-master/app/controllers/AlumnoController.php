@@ -26,7 +26,7 @@ class AlumnoController extends \BaseController {
 /* Jesús Luque agrego una nueva función a la vez que Mauricio hace cambios en el fichero*/		
 		
 		public function prueba2(){
-			return 'OK';
+			return 'Otra cosa';
 		}
 
 
