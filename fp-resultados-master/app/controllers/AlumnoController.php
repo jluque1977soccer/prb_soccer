@@ -22,6 +22,8 @@ class AlumnoController extends \BaseController {
 		public function prueba2(){
             //nuevo cambio jesús 
 			echo "a ver si nos enteramos";
+			//meto otra linea
+			echo "otra prueba";
 			$mi_variable='OK';
 			return $mi_variable;
 		}
