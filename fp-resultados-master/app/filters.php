@@ -4,6 +4,13 @@
 /*
  *cambio desde la rama feature/start.php  */
 
+/* he tenido que arreglarlo por el conflicto */
+
+/* Jesus: ahora cambio este fichero para ver como se comporta con 2 ramas en feature
+ * voy a ir cambiando en cada rama para luego hacer el merge
+ */
+
+
 /*
 |--------------------------------------------------------------------------
 | Application & Route Filters
