@@ -29,6 +29,8 @@ class AlumnoController extends \BaseController {
 			// cambios para ver que hace durante los cambios si otro cambia el fichero
 			$jl='5';
 			return 'Otra cosa';
+                    $mi_variable='OK';
+			return $mi_variable;
 		}
 
 
