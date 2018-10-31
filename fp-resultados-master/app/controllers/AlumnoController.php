@@ -16,18 +16,16 @@ class AlumnoController extends \BaseController {
 		return View::make('alumnos.index')->with('alumnos', $alumnos);
 	}
         
-<<<<<<< HEAD
-=======
+
 /* Jesús Luque agrego una nueva función a la vez que Mauricio hace cambios en el fichero*/		
 		
 		public function prueba2(){
-                    $mi_variable='OK';
+            //nuevo cambio jesús 
+			echo "a ver si nos enteramos";
+			$mi_variable='OK';
 			return $mi_variable;
 		}
 
-
-		
->>>>>>> develop
 		
 	/**
 	 * Show the form for creating a new resource.
