@@ -1,1 +1,5 @@
-fichero para ver como se comportaria con Netbeans
+el orden que he hecho las cosas ha sido el siguiente
+he clonado el repositorio remoto con NetBeans
+luego he añadido el repositorio desde SourceTree
+
+Ahora ya estan sincronizados perfectamente, cualquier cambio en NetBeans me salta en SourceTree
