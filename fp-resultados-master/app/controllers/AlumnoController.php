@@ -15,6 +15,10 @@ class AlumnoController extends \BaseController {
 		// load the view and pass the alumnos
 		return View::make('alumnos.index')->with('alumnos', $alumnos);
 	}
+        
+        public function prueba() {
+            return 'ok';
+        }
 
 
 	/**
