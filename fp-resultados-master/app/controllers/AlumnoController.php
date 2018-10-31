@@ -19,7 +19,7 @@ class AlumnoController extends \BaseController {
         # se me habia olvodado explicr la funcionalidad
         # esta función no haca más que retornar un "ok"
         public function prueba() {
-            return 'ok';
+            return 'ok ok';
         }
 
 
