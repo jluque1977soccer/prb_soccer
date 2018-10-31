@@ -1,6 +1,0 @@
-Primera línea
-//ahora el cambio es de nuevo en el servidor,cambio 2//
-Añado una línea desde el pc para subirla al servidor, antes de la línea cambiada arriba
-//Línea cambiada en el servidor//
-
-
