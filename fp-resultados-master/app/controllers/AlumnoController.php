@@ -26,6 +26,8 @@ class AlumnoController extends \BaseController {
 /* Jesús Luque agrego una nueva función a la vez que Mauricio hace cambios en el fichero*/		
 		
 		public function prueba2(){
+			// cambios para ver que hace durante los cambios si otro cambia el fichero
+			$jl='5';
 			return 'Otra cosa';
 		}
 
