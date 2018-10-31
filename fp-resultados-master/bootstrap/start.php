@@ -1,5 +1,17 @@
 <?php
 
+/* Jesus:  voy a meter cambios en este fichero, para ello he utilizado una
+ * rama  de feature
+ * 
+ * ahora hago un segundo cambio, inmediatamente de que se hace un commit desde
+ * Sourcetree el Netbeans deja de marcarte como cambio el fichero, ya ha detectado 
+ * que se ha hecho commit
+ */
+
+
+
+
+
 /*
 |--------------------------------------------------------------------------
 | Create The Application
@@ -55,7 +67,7 @@ $app->bindInstallPaths(require __DIR__.'/paths.php');
 |--------------------------------------------------------------------------
  * 
  * 
-   cambio realizado por Jesús para ver como se comporta el SourceTree
+   cambio realizado por Jesï¿½s para ver como se comporta el SourceTree
  * 
  * 
 |
