@@ -16,13 +16,6 @@ class AlumnoController extends \BaseController {
 		return View::make('alumnos.index')->with('alumnos', $alumnos);
 	}
         
-        # se me habia olvodado explicr la funcionalidad
-        # esta función no haca más que retornar un "ok"
-        public function prueba() {
-            return 'ko';
-        }
-
-
 /* Jesús Luque agrego una nueva función a la vez que Mauricio hace cambios en el fichero*/		
 		
 		public function prueba2(){
